@@ -55,7 +55,7 @@ int main (){
 
    cout<<"ANTRIAN SEMBAKO COVID-19"<<endl;
    dataDiri dadir;
-   cout<<"Nama : ";
+   cout<<"Nama : "; //tidak terdeteksi pas di running
    getline(cin, dadir.nama);
    cout<<"TTL : ";
    getline(cin, dadir.ttl);
